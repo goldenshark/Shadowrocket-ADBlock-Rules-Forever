@@ -1,5 +1,3 @@
-DOMAIN-SUFFIX,nikke-kr.com
-DOMAIN-SUFFIX,nikke-en.com
 DOMAIN-SUFFIX,forms.gle
 DOMAIN-SUFFIX,ssr.sh
 DOMAIN-SUFFIX,intlgame.com
@@ -10,3 +8,13 @@ DOMAIN-SUFFIX,neonapi.com
 DOMAIN-SUFFIX,bd2.pmang.cloud
 DOMAIN-SUFFIX,bd2-cdn.akamaized.net
 DOMAIN-SUFFIX,awsglobalaccelerator.com
+# > Nikke
+IP-CIDR,43.152.114.31/32,no-resolve
+DOMAIN-SUFFIX,nikke-kr.com
+DOMAIN-SUFFIX,nikke-en.com
+DOMAIN-SUFFIX,intlgame.com
+DOMAIN-SUFFIX,iegcom.com
+DOMAIN-SUFFIX,anticheatexpert.com
+DOMAIN,na1.centauriglobal.com
+DOMAIN-SUFFIX,gamepass.com
+DOMAIN-SUFFIX,centauriglobal.com
