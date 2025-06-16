@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,neonapi.com
 DOMAIN-SUFFIX,bd2.pmang.cloud
 DOMAIN-SUFFIX,bd2-cdn.akamaized.net
 DOMAIN-SUFFIX,awsglobalaccelerator.com
+# > Nikke
 IP-CIDR,43.152.114.31/32,no-resolve
 DOMAIN-SUFFIX,nikke-kr.com
 DOMAIN-SUFFIX,nikke-en.com
