@@ -169,6 +169,7 @@ DOMAIN-SUFFIX,repo.maven.apache.org
 DOMAIN-SUFFIX,quic.nginx.org
 DOMAIN-KEYWORD,staryuki
 DOMAIN-SUFFIX,yridc.net.cn
+DOMAIN-SUFFIX,emby.wtf
 # > Reddit
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
